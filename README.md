@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-dhakal-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="anish-dhakal-sudo" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Selenium**
+- 🌱 I’m currently learning **Node.js, Selenium**
 
 - 💬 Ask me about **react**
 
