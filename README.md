@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-dhakal-sudo&show_icons=true&locale=en&layout=compact" alt="anish-dhakal-sudo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-dhakal-sudo&" alt="anish-dhakal-sudo" /></p>
+
