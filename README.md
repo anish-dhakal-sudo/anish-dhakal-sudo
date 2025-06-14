@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Dhakal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A Frontend Developer and QA Engineer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1726392134~exp=1726395734~hmac=a161c289e5091c646f530b9b92eedc93ab47f5309ff5a25d080558dad05c15ca&w=1380"
 
 
