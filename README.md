@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-dhakal-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="anish-dhakal-sudo" /> </p>
 
-- 🌱 I’m currently learning **Selenium, Pytest, and test automation fundamentals**
+- 🌱 I’m currently exploring **Advanced Test Automation, Playwright, CI/CD Integration, and Test Framework Design**
 
-- 💬 Ask me about **React Testing principles, methodologies, and best practices**
+- 💬 Ask me about **Functional Testing, Selenium, Pytest, API Testing with Postman, Test Automation, and QA Best Practices**
 
 - 📫 How to reach me **anishdhakal188@gmail.com**
 
