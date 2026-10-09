@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Advanced Test Automation, Playwright, CI/CD Integration, and Test Framework Design**
 
-- 💬 Ask me about **Functional Testing, Selenium, Pytest, API Testing with Postman, Test Automation, and QA Best Practices**
+- 💬 Ask me about **Functional Testing, Playwright, Selenium, Pytest, API Testing with Postman, Test Automation, and QA Best Practices**
 
 - 📫 How to reach me **anishdhakal188@gmail.com**
 
